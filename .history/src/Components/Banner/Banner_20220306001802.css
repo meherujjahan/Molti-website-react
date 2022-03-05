@@ -1,0 +1,8 @@
+.Banner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Banner-img {
+  width: 500px;
+}

@@ -1,0 +1,13 @@
+.Banner {
+  display: flex;
+  justify-content: space-between;
+  margin: 30px;
+  padding: 20px;
+}
+.Banner-text {
+  text-align: left;
+}
+
+.Banner-img {
+  width: 500px;
+}

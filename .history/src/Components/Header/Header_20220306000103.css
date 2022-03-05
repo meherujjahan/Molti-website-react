@@ -1,0 +1,17 @@
+.Logo-img {
+  width: 150px;
+  margin: 20px;
+  padding-right: 10px;
+  border-right: 1px solid gray;
+  color: rgb(235, 120, 78);
+}
+.Header-btn {
+  background-color: rgb(235, 120, 78);
+  border: none;
+  border-radius: 3px;
+  padding: 8px;
+  padding-left: 15px;
+  padding-right: 15px;
+  color: white;
+  font-weight: 600;
+}

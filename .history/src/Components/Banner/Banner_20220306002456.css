@@ -1,0 +1,23 @@
+.Banner {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  padding: 30px;
+}
+.Banner-text {
+  text-align: left;
+  font-weight: ;
+}
+.Banner-text span {
+  color: rgb(238, 110, 63);
+}
+.Banner-text b {
+  color: rgba(19, 19, 150, 0.87);
+}
+.Banner-text h1 {
+  font-weight: 900;
+}
+
+.Banner-img {
+  width: 500px;
+}

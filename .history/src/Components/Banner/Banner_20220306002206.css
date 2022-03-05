@@ -1,0 +1,16 @@
+.Banner {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px;
+  padding: 30px;
+}
+.Banner-text {
+  text-align: left;
+}
+.Banner-text span {
+  color: rgb(238, 110, 63);
+}
+
+.Banner-img {
+  width: 500px;
+}

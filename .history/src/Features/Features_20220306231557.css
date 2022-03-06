@@ -1,0 +1,13 @@
+.features {
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.feature-text span {
+  color: rgb(238, 110, 63);
+}
+.feature-text h1 {
+  font-size: 50px;
+}
+.feature-banner img {
+  width: 300px;
+}

@@ -1,7 +1,6 @@
 import React from 'react';
 import workProcess from '../Image/Easy-Work-Process.png';
-import marketingIcon from '../Image/Marketing-icon.png';
-import manageTeamImg from '../Image/Marketing.png';
+import manageTeamImg from '../Image/Managed-Team-Work.png';
 import teamIcon from '../Image/Team-Icon.png';
 import workProcess1 from '../Image/Work-Process (1).png';
 import './Features.css';
@@ -44,12 +43,12 @@ const Feature = () => {
         </div>
         <div className='feature-banner'>
         <div>
-            <img src={manageTeamImg} alt="" />
+            <img src={workProcess} alt="" />
         </div>
         <div className='feature-banner-text'>
-            <img src={marketingIcon} alt="" />
+            <img src={workProcess1} alt="" />
             
-            <h4>MARKETING ANALYSIS</h4>
+            <h4>EASY WORK PROCESS</h4>
             
             <p>Your content goes here. Edit or remove this text inline or in the module <br /> Content settings. You can also style every aspect of this content in the <br /> module Design settings and even apply custom CSS to this text in the <br /> module Advanced settings.</p>
         </div>

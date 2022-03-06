@@ -49,7 +49,7 @@ const Feature = () => {
         <div className='feature-banner-text'>
             <img src={marketingIcon} alt="" />
             
-            <h4>MARKETING ANALYSIS</h4>
+            <h4>EASY WORK PROCESS</h4>
             
             <p>Your content goes here. Edit or remove this text inline or in the module <br /> Content settings. You can also style every aspect of this content in the <br /> module Design settings and even apply custom CSS to this text in the <br /> module Advanced settings.</p>
         </div>

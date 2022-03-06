@@ -1,0 +1,13 @@
+.business-text {
+  text-align: center;
+}
+.business-text h1 {
+  font-size: 50px;
+}
+.business-text span {
+  color: rgb(238, 110, 63);
+}
+.business-text p {
+  color: gray;
+  font-weight: 400;
+}

@@ -1,13 +1,9 @@
 .features {
-  padding: 40px;
+  padding: 20px;
   margin-bottom: 30px;
 }
 .feature-text span {
   color: rgb(238, 110, 63);
-}
-.feature-text p {
-  color: gray;
-  font-weight: 400;
 }
 .feature-text h1 {
   font-size: 50px;
@@ -17,6 +13,7 @@
   display: flex;
   justify-content: space-between;
   text-align: start;
+  text-align-last: auto;
   padding: 40px;
 }
 .feature-banner img {
@@ -25,11 +22,6 @@
 .feature-banner-text h4 {
   padding-top: 20px;
   padding-bottom: 10px;
-  font-weight: bold;
-}
-.feature-banner-text p {
-  color: gray;
-  font-weight: 400;
 }
 .feature-banner-text {
   padding-top: 100px;

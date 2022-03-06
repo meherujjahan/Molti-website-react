@@ -1,0 +1,26 @@
+.features {
+  padding: 20px;
+  margin-bottom: 30px;
+}
+.feature-text span {
+  color: rgb(238, 110, 63);
+}
+.feature-text h1 {
+  font-size: 50px;
+}
+.feature-banner {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-between;
+  text-align: start;
+  padding: 30px;
+}
+.feature-banner img {
+  width: 500px;
+}
+.feature-banner-text img {
+  width: 60px;
+  background-color: rgb(238, 110, 63);
+  border-radius: 3px;
+  padding: 5px;
+}

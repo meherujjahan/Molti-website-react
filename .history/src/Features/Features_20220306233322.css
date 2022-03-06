@@ -17,6 +17,7 @@
   display: flex;
   justify-content: space-between;
   text-align: start;
+  text-align-last: auto;
   padding: 40px;
 }
 .feature-banner img {

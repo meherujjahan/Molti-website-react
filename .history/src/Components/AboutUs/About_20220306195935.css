@@ -1,0 +1,19 @@
+.about-text {
+  align-items: center;
+  padding: 20px;
+}
+.about-text p {
+  color: gray;
+  font-weight: 400;
+}
+.about-text h1 {
+  /* font-weight: 500; */
+  font-size: 50px;
+}
+.about-text span {
+  color: rgb(253, 114, 64);
+}
+.aboutUs-card {
+  display: flex;
+  margin: 20px;
+}

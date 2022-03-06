@@ -1,0 +1,34 @@
+.work-process {
+  margin: 50px;
+  padding: 20px;
+}
+/* .workProcess-text {
+  border-bottom: 3px solid rgb(238, 110, 63);
+  width: 10px;
+} */
+.workProcess-text h2 {
+  color: rgb(238, 110, 63);
+}
+.workProcess-text p {
+  border-bottom: 3px solid rgb(238, 110, 63);
+  width: 80px;
+  margin: auto;
+}
+.WP-single-card {
+  display: flex;
+  text-align: start;
+}
+.WP-all-card {
+  display: flex;
+  justify-content: space-around;
+}
+.WP-all-card img {
+  width: 400px;
+}
+.WP-single-card {
+  border-bottom: 1px solid gainsboro;
+}
+.WP-single-card img {
+  width: 40px;
+  padding-right: 10px;
+}

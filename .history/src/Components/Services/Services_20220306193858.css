@@ -1,0 +1,40 @@
+.services {
+  margin: 50px;
+}
+.service-text {
+  align-items: center;
+  padding: 20px;
+}
+.service-text p {
+  color: gray;
+  font-weight: 100;
+}
+.service-text h1 {
+  /* font-weight: 500; */
+  font-size: 50px;
+}
+.service-text span {
+  color: rgb(253, 114, 64);
+}
+.service-card {
+  display: flex;
+  justify-content: space-around;
+}
+
+.single-card img {
+  width: 120px;
+  padding: 20px;
+}
+.single-card h3 {
+  color: rgb(253, 114, 64);
+  font-weight: 500;
+}
+.service-card :hover {
+  padding: 10px;
+  border: 3px solid rgb(253, 114, 64);
+  border-radius: 5px;
+}
+.fa-solid {
+  color: rgb(253, 114, 64);
+  font-size: 50px;
+}

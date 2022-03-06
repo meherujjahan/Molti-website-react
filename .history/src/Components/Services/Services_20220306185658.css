@@ -1,0 +1,8 @@
+.service-text {
+  align-items: center;
+}
+
+.service-card {
+  display: flex;
+  justify-content: space-around;
+}

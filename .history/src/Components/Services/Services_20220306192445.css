@@ -1,0 +1,29 @@
+.services {
+  margin: 30px;
+}
+.service-text {
+  align-items: center;
+  padding: 20px;
+}
+
+.service-card {
+  display: flex;
+  justify-content: space-around;
+}
+.service-card img {
+  width: 100px;
+  padding: 10px;
+}
+
+/* .single-card img {
+  width: 100px;
+} */
+.service-card :hover {
+  padding: 20px;
+  border: 3px solid rgb(253, 114, 64);
+  border-radius: 5px;
+}
+.fa-solid {
+  color: rgb(253, 114, 64);
+  font-size: 50px;
+}

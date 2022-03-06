@@ -1,0 +1,24 @@
+.work-process {
+  margin: 50px;
+  padding: 20px;
+}
+/* .workProcess-text {
+  border-bottom: 3px solid rgb(238, 110, 63);
+  width: 10px;
+} */
+.workProcess-text h2 {
+  color: rgb(238, 110, 63);
+}
+.workProcess-text p {
+  border-bottom: 3px solid rgb(238, 110, 63);
+  width: 80px;
+  margin: auto;
+}
+.WP-single-card {
+  display: flex;
+  text-align: start;
+}
+.WP-single-card img {
+  width: 40px;
+  padding-right: 10px;
+}

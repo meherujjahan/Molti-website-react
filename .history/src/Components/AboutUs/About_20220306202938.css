@@ -1,0 +1,63 @@
+.aboutUs {
+  background-color: rgb(240, 244, 248);
+}
+
+.about-text {
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}
+.about-text p {
+  color: gray;
+  font-weight: 400;
+}
+.about-text h1 {
+  /* font-weight: 500; */
+  font-size: 50px;
+}
+.about-text span {
+  color: rgb(253, 114, 64);
+}
+/* all card */
+
+.aboutUs-card {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+/* single card style */
+.aboutUs-single-card {
+  text-align: start;
+}
+.aboutUs-single-card h5 {
+  font-weight: bold;
+}
+.aboutUs-single-card h3 {
+  font-weight: bold;
+}
+.aboutUs-single-card span {
+  color: rgb(253, 114, 64);
+}
+.aboutUs-single-card img {
+  width: 50px;
+  padding-bottom: 10px;
+}
+.aboutUs-single-card p {
+  color: gray;
+  font-weight: 400;
+}
+.aboutUs-1stCard {
+  border-right: 2px solid rgb(235, 223, 223);
+  padding-right: 15px;
+}
+/* Button */
+.aboutUs-btn {
+  background-color: rgb(238, 110, 63);
+  border: none;
+  border-radius: 4px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  font-weight: 700;
+}

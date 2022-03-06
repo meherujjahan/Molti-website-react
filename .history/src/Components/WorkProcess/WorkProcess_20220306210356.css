@@ -1,0 +1,10 @@
+.work-process {
+  margin: 30px;
+}
+.workProcess-text {
+  border-bottom: 3px solid rgb(238, 110, 63);
+  width: 5px;
+}
+.workProcess-text h2 {
+  color: rgb(238, 110, 63);
+}

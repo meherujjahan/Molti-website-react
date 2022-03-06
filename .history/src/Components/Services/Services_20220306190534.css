@@ -1,0 +1,13 @@
+.services {
+  margin: 30px;
+}
+.service-text {
+  align-items: center;
+}
+
+.service-card {
+  display: flex;
+  justify-content: space-around;
+}
+.single-card {
+}

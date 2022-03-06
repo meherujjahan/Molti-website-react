@@ -1,0 +1,37 @@
+.about-text {
+  align-items: center;
+  padding: 30px;
+  margin: 20px;
+}
+.about-text p {
+  color: gray;
+  font-weight: 400;
+}
+.about-text h1 {
+  /* font-weight: 500; */
+  font-size: 50px;
+}
+.about-text span {
+  color: rgb(253, 114, 64);
+}
+/* all card */
+
+.aboutUs-card {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+/* single card style */
+.aboutUs-single-card {
+  text-align: start;
+}
+.aboutUs-single-card span {
+  color: rgb(253, 114, 64);
+}
+.aboutUs-single-card img {
+  width: 50px;
+}
+.aboutUs-1stCard {
+  border-right: 2px solid rgb(201, 195, 195);
+  padding-left: 10px;
+}

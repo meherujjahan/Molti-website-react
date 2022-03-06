@@ -1,0 +1,45 @@
+.work-process {
+  margin: 50px;
+  padding: 20px;
+}
+/* .workProcess-text {
+  border-bottom: 3px solid rgb(238, 110, 63);
+  width: 10px;
+} */
+.workProcess-text h2 {
+  color: rgb(238, 110, 63);
+}
+.workProcess-text p {
+  border-bottom: 3px solid rgb(238, 110, 63);
+  width: 80px;
+  margin: auto;
+}
+.WP-single-card {
+  display: flex;
+  text-align: start;
+}
+.WP-all-card {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-around;
+}
+.WP-all-card img {
+  width: 350px;
+}
+.WP-text-border {
+  border-bottom: 1px solid gainsboro;
+  margin-bottom: 40px;
+  padding-bottom: 40px;
+}
+
+.WP-single-card p {
+  color: gray;
+  font-weight: 400;
+}
+.WP-single-card h4 {
+  font-weight: bold;
+}
+.WP-single-card img {
+  width: 40px;
+  padding-right: 10px;
+}

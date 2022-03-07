@@ -1,0 +1,10 @@
+.morePlan-card {
+  margin: 30px;
+}
+.morePlan-single-card {
+  display: flex;
+  text-align: start;
+}
+.morePlan-single-card img {
+  width: 60px;
+}

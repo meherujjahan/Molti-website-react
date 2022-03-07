@@ -35,17 +35,6 @@
 .choosePlan-single-card h3 {
   color: rgb(238, 110, 63);
 }
-.choosePlan-single-card p {
-  color: rgb(151, 144, 144);
-  font-weight: 500;
-  padding-top: 10px;
-}
-.choosePlan-single-card b {
-  font-weight: 50px;
-}
-.choosePlan-single-card span {
-  color: rgb(238, 110, 63);
-}
 .choosePlan-single-card button {
   margin-top: 10px;
   margin-bottom: 10px;

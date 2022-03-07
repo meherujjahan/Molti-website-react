@@ -28,23 +28,9 @@
   text-align: center;
 }
 .choosePlan-single-card {
-  padding: 50px;
+  padding: 40px;
   background-color: white;
-  border-radius: 10px;
-}
-.choosePlan-single-card h3 {
-  color: rgb(238, 110, 63);
-}
-.choosePlan-single-card p {
-  color: rgb(151, 144, 144);
-  font-weight: 500;
-  padding-top: 10px;
-}
-.choosePlan-single-card b {
-  font-weight: 50px;
-}
-.choosePlan-single-card span {
-  color: rgb(238, 110, 63);
+  border-radius: 5px;
 }
 .choosePlan-single-card button {
   margin-top: 10px;

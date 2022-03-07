@@ -1,0 +1,24 @@
+.footer-section {
+  text-align: start;
+  display: flex;
+  justify-content: space-around;
+  color: white;
+  background-color: rgb(32, 32, 119);
+  margin-top: 40px;
+  padding: 50px;
+}
+.footer-section-1 input {
+  width: 500px;
+  padding: 10px;
+  border: none;
+}
+.footer-section-1 p {
+  color: white;
+  text-align: start;
+  border-bottom: 1px solid grey;
+  padding-bottom: 20px;
+}
+.footer-section-1 img {
+  width: 150px;
+  color: red;
+}

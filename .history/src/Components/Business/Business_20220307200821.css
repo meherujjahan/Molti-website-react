@@ -1,0 +1,26 @@
+.business {
+  padding: 50px;
+  background-color: rgba(3, 3, 85, 0.904);
+}
+
+.business-text {
+  text-align: center;
+  color: white;
+}
+.business-text h1 {
+  font-size: 50px;
+}
+.business-text span {
+  color: rgb(238, 110, 63);
+}
+.business-text p {
+  color: rgb(163, 161, 161);
+  font-weight: 400;
+}
+.business-icon {
+  display: flex;
+  justify-content: space-around;
+}
+.business-icon img {
+  width: 80px;
+}

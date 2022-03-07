@@ -1,0 +1,38 @@
+.blog-cards {
+  display: flex;
+  justify-content: space-around;
+}
+
+.blog-card img {
+  width: 300px;
+  border-radius: 10px;
+}
+.date-btn {
+  margin-left: 150px;
+  background-color: rgb(247, 240, 240);
+  border-radius: 5px;
+  padding: 10px;
+  border: none;
+  box-shadow: 2px 2px 2px gray;
+}
+.img-btn {
+  margin-top: -170px;
+  margin-bottom: 150px;
+  margin-left: 50px;
+  display: flex;
+  justify-content: flex-start;
+}
+.img-btn button {
+  margin-left: 5px;
+  font-size: x-small;
+  font-weight: 500;
+  color: rgb(231, 231, 228);
+  background-color: rgb(253, 114, 64);
+  border: none;
+  border-radius: 5px;
+  padding: 8px;
+}
+.blog-card-text {
+  text-align: start;
+  padding-left: 50px;
+}

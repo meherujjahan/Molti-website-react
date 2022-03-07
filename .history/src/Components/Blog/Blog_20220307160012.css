@@ -1,0 +1,12 @@
+.date-btn {
+  display: flex;
+  justify-content: end;
+  background-color: white;
+  border-radius: 5px;
+  padding: 10px;
+  border: none;
+}
+.img-btn {
+  border: none;
+  padding: 5px;
+}

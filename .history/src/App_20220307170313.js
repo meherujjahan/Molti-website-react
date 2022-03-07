@@ -6,7 +6,6 @@ import Blog from './Components/Blog/Blog';
 import Business from './Components/Business/Business';
 import ChoosePlan from './Components/ChoocePlan/ChoosePlan';
 import Client from './Components/Clients/Client';
-import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import MoreService from './Components/MoreServise/MoreService';
 import Services from './Components/Services/Services';
@@ -27,7 +26,6 @@ function App() {
      <MoreService></MoreService>
      <Client></Client>
     <Blog></Blog>
-    <Footer></Footer>
     </div>
   );
 }

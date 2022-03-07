@@ -20,14 +20,14 @@ const ChoosePlan = () => {
                 <div className='choosePlan-single-card'>
                         <b>PREMIUM</b>
                         <h3>$45 / Month</h3>
-                        <button>JOIN NOW <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button>JOIN NOW</button>
                         <p>1 Mobile Responsive <span> Website <br /> SEO </span> Friendly for Google <br />Social media integration <br />1 Year <span> Free Hosting </span> (Included) <br />Free SSL Security</p>
                         <button><i class="fa-solid fa-circle-plus"></i>  See More</button>
                 </div>
                 <div className='choosePlan-single-card'>
                         <b>ULTRA</b>
                         <h3>$75 / Month</h3>
-                        <button>JOIN NOW <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button>JOIN NOW</button>
                         <p>1 Mobile Responsive <span> Website <br /> SEO </span> Friendly for Google <br />Social media integration <br />1 Year <span> Free Hosting </span> (Included) <br />Free SSL Security</p>
                         <button><i class="fa-solid fa-circle-plus"></i>  See More</button>
                 </div>

@@ -1,0 +1,96 @@
+import React from 'react';
+import './Blog.css';
+
+const Blog = () => {
+    return (
+        <div className='container'>
+            <div className='choosePlan-text'>
+                <b>OUR NEWS</b>
+                <h1>
+                Latest from <span> Blog</span> 
+                </h1>
+                <p>It will be as simple as occidental in fact, it will be Occidental. It will be as <br /> simple as occidental in fact, it will be Occidental.</p>
+            </div>
+
+<div>
+            <div class="card" style="width: 18rem;">
+  <img src={img1} class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+ 
+            <div class="card" style="width: 18rem;">
+  <img src={img1} class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+
+            <div class="card" style="width: 18rem;">
+  <img src={img1} class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">Card title</h5>
+    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <a href="#" class="btn btn-primary">Go somewhere</a>
+  </div>
+</div>
+        </div>
+
+
+
+           {/* <div className='blog-cards'>
+           <div className='blog-card'>
+                <div>
+                    <img src={image1} alt="" />
+                    <div className='img-btn'> <button className='img-btn2'>BUSINESS</button> <button>WEBSITE</button></div>
+                </div>
+               
+                <div>
+                <button className='date-btn'>Dec 22</button>
+                </div>
+                <div className='blog-card-text'>
+                    <h4> <b>Risus sed vulputate <br /> odio ut enim blandit <br /> eiu tempor incididunt</b></h4>
+                    <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit, sed do <br /> eiusmod tempor incididunt ut labore et dolore magna...</p>
+                </div>
+
+            </div>
+           <div className='blog-card'>
+                <div>
+                    <img src={image2} alt="" />
+                    <div className='img-btn'> <button className='img-btn2'>BUSINESS</button> <button>WEBSITE</button></div>
+                </div>
+               
+                <div>
+                <button className='date-btn'>Dec 22</button>
+                </div>
+                <div className='blog-card-text'>
+                    <h4> <b>Adipiscing vitae proin <br /> sagittis nisl rhoncus <br /> mattis</b></h4>
+                    <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit, sed do <br /> eiusmod tempor incididunt ut labore et dolore magna...</p>
+                </div>
+
+            </div>
+           <div className='blog-card'>
+                <div>
+                    <img src={image3} alt="" />
+                    <div className='img-btn'> <button className='img-btn2'>BUSINESS</button> <button>WEBSITE</button></div>
+                </div>
+               
+                <div>
+                <button className='date-btn'>Dec 22</button>
+                </div>
+                <div className='blog-card-text'>
+                    <h4> <b>Risus sed vulputate <br /> odio ut enim blandit <br /> eiu tempor incididunt</b></h4>
+                    <p>Lorem ipsum dolor sit amet, <br /> consectetur adipiscing elit, sed do <br /> eiusmod tempor incididunt ut labore et dolore magna...</p>
+                </div>
+
+            </div>
+          
+           </div> */}
+        </div>
+    );
+};
+
+export default Blog;

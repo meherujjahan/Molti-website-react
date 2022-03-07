@@ -1,12 +1,10 @@
-import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import AboutUs from './Components/AboutUs/AboutUs';
 import Banner from './Components/Banner/Banner';
-import Blog from './Components/Blog/Blog';
+import Blogs from './Components/Blogs/Blogs';
 import Business from './Components/Business/Business';
 import ChoosePlan from './Components/ChoocePlan/ChoosePlan';
 import Client from './Components/Clients/Client';
-import Footer from './Components/Footer/Footer';
 import Header from './Components/Header/Header';
 import MoreService from './Components/MoreServise/MoreService';
 import Services from './Components/Services/Services';
@@ -26,8 +24,8 @@ function App() {
      <ChoosePlan></ChoosePlan>
      <MoreService></MoreService>
      <Client></Client>
-    <Blog></Blog>
-    <Footer></Footer>
+     {/* <Blog></Blog> */}
+     <Blogs></Blogs>
     </div>
   );
 }

@@ -1,0 +1,8 @@
+.clients {
+  margin-top: 50px;
+}
+.star-icon {
+  justify-content: center;
+  color: rgb(231, 199, 13);
+  display: flex;
+}

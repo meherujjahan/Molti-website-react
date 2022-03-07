@@ -1,0 +1,14 @@
+.clients {
+  margin-top: 50px;
+}
+.star-icon {
+  justify-content: center;
+  color: rgb(252, 215, 5);
+  display: flex;
+  padding: 20px;
+}
+.clientImg img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50px;
+}

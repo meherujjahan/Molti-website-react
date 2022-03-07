@@ -1,0 +1,26 @@
+.choosePlan {
+  margin: 30px;
+  padding: 20px;
+}
+.choosePlan-text {
+  margin-bottom: 30px;
+}
+.choosePlan-text b {
+  color: rgb(55, 55, 209);
+}
+.choosePlan-text h1 {
+  font-size: 50px;
+}
+.choosePlan-text p {
+  color: gray;
+  font-weight: 400;
+}
+.choosePlan-text span {
+  color: rgb(238, 110, 63);
+}
+.choosePlan-card {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+}
